@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elisei
 - 👀 I’m interested in programing
 - 🌱 I'm currently learning web and android development
-- 💞️ I’m looking for awesome projects ideas to
+- 💞️ I’m looking for awesome projects ideas
 - 📫 How to reach me send me a message on my LinkedIn Prală Elisei
 
 <!---
